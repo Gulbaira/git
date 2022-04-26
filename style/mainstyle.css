@@ -1,0 +1,24 @@
+.basic{
+    margin: 0;
+    padding: 0 550px;
+    background: url(../images/TebPWZ6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main-container{
+    display: flex;
+    justify-content: space-around;
+    margin: 0;
+    height: 40px;
+    padding: 25px 0;
+    
+}
+button{
+    padding: 8px 20px;
+    border: 1px solid grey;
+    border-radius: 8px
+
+}
+button:hover{
+    background-color: grey;
+}
